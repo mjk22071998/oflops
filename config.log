@@ -607,26 +607,37 @@ config.status:1102: creating example_modules/openflow_packet_in/Makefile
 config.status:1102: creating example_modules/openflow_port_status/Makefile
 config.status:1102: creating example_modules/snmp_cpu/Makefile
 config.status:1102: creating config.h
+config.status:1283: config.h is unchanged
 config.status:1331: executing depfiles commands
 config.status:1408: cd .       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd cbench       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/oflops_debug       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_action_install       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_action_measurement       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_path_delay       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_flow_dump_test       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_packet_in       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/openflow_port_status       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1408: cd example_modules/snmp_cpu       && sed -e '/# am--include-marker/d' Makefile         | make -f - am--depfiles
+make: Nothing to be done for 'am--depfiles'.
 config.status:1413: $? = 0
 config.status:1331: executing libtool commands
 
