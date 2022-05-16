@@ -396,7 +396,7 @@ void *event_loop(void *param) {
   while(state->ctx->should_end == 0) {
     next_event = timer_get_next_event(state->ctx);
     if(next_event <= 0 ) {
-      pthread_yield();
+      sched_yield();
       timer_run_next_event(state->ctx);
       //next_event = timer_get_next_event(ctx);
     }
